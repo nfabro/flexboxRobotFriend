@@ -31,7 +31,8 @@ h1 {
 } 
 
 .eyes {
-	
+	/*by turning the eyes class into a display flex, it created the left eye and right eye into one row*/
+	display: flex;
 }
 
 .head:hover {
